@@ -1,0 +1,121 @@
+body {
+	background-color: #ffcf79;
+	font-family: helvetica, sans-serif, times; 
+}
+#navbar {
+background-color: #5c755e;
+
+}
+#navbar ul li {
+	margin: 2px;
+	padding: 10px;
+	display: inline;
+	font-weight: bold;
+	font-size: 1.5em;
+	text-align: center;
+	list-style: none;
+}
+#navbar a {
+	text-decoration: none;
+	color: #fff;
+}
+#navbar a:hover {
+	color: #000;
+	background-color: #ff0000;
+}
+
+.imghgcf {
+	float: left;
+	width: 150px;
+
+	padding-right: 10px; 
+}
+
+#main-header {
+	width: 99%;
+	height: auto;
+	background-color: #000;
+	color:gold;
+	text-align: center;
+	margin: 0;
+}
+.section {
+margin-top: 20px;
+margin-bottom: 20px;
+	
+}
+#visionSide {
+	margin-top: 20px
+	/*border: 1px solid black; */
+	padding: 10px;
+	float: left;
+	background-color: #ccc;
+	color: #fff;
+	width: 50%;
+	font-weight: bold;
+	font-size: 1.5em;
+	box-sizing: border-box;
+	text-align: center;
+}
+#missionSide {
+	margin-top: 20px
+	padding: 10px;
+	border: 1px solid black;
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+	text-align: center;
+}
+.clr {
+	float: both;
+}
+.training {
+	width: 90%;
+	margin: 10px;
+	padding: 10px;
+	color: #000;
+	background-color: #c9c;
+}
+.gallery {
+	width: 150px;
+	height: 150px;
+	padding: 10px;
+	margin: 5px;
+	border: 2px solid green;
+	background-color: #ccc;
+	box-shadow: 3px 3px 7px green;
+
+}
+.newgal {
+	float: right;
+	text-align: center;
+}
+
+#footer {
+
+	font-family: monospace, times;
+	background-color: gold;
+	color:#000;
+	font-size: 1.3em;
+}
+#myForm {
+	display: table;
+	width: 200px;
+	height: 200px;
+	background-color: green;
+	color: #fff;
+	margin: 2px;
+
+
+}
+#myForm label {
+	display: table-row;
+	padding: 2px;
+	
+}
+
+#myForm input {
+	display: table-row;
+	padding: 2px;
+	
+}
